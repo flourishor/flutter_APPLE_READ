@@ -2,7 +2,7 @@
 
 A new Flutter project.
 only have UI 
-for my first learing
+my first learning result
 
 ## Getting Started
 
