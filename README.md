@@ -1,6 +1,8 @@
 # my_app
 
 A new Flutter project.
+only have UI 
+for my first learing
 
 ## Getting Started
 
