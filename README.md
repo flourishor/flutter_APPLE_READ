@@ -3,6 +3,8 @@
 A new Flutter project.
 only have UI 
 my first learning result
+![image](https://github.com/user-attachments/assets/276c7ab2-0d51-4587-a176-ddc8d8987854)
+
 
 ## Getting Started
 
